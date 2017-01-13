@@ -1,2 +1,2 @@
 # LeetCode
-Coding challenge from https://leetcode.com/
+Coding challenge done on https://leetcode.com/
