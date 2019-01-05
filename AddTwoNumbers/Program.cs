@@ -57,13 +57,10 @@ namespace AddTwoInt
             ListNode node1 = new ListNode(2);
             node1.next = new ListNode(4);
             node1.next.next = new ListNode(3);
-            
-        //    test.printLN(node1);
 
             ListNode node2 = new ListNode(5);
             node2.next = new ListNode(6);
             node2.next.next = new ListNode(4);
-        //    test.printLN(node2); 
 
             ListNode result = test.AddTwoNumbers(node1, node2);
             test.printLN(result);
