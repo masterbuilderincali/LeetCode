@@ -1,4 +1,8 @@
-﻿using System;
+/*
+Author: Jingqing Shao
+*/
+
+using System;
 
 namespace AddTwoInt
 {
